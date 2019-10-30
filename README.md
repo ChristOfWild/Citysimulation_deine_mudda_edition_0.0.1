@@ -2,6 +2,7 @@
 Zielsetzung:
 
 „Wat soll der Mist denn eigentlich machen,Juuunge?“
+
 	Das Ziel ist es dem User die Simulation einer möglichst unrealistischen Stadt mit grade mal 
 	mangelhaften grafischen Elementen und geradezu lachhaft komischen Einlagen, um den 
 	Spieler auf die billigst mögliche Art so lala zu unterhalten. Dieses Projekt besitzt kein 	
